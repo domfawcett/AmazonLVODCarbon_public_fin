@@ -40,8 +40,7 @@ These GEE Scripts pre-process and export land cover data for further analysis. A
 These R Scripts generate the results presented in Fawcett et al. 
 
 ### analyseLVOD_ccgfilt_diff_Amazon_bycountry_excl2011_V18_fin.R
-This code generates Amazon country specific changes in AGC attributed to different processes 
-Excluding 2011 which was a la Nina year and saw a large increase in AGC
+This code generates Amazon country specific changes in AGC attributed to different processes, excluding 2011 which was a la Nina year and saw a large increase in AGC
 
 Outputs:
 
