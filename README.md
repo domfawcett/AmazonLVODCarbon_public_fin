@@ -11,6 +11,8 @@ The graphics presented in the main manuscript were generated using:
 
 **GenerateFig4.R**
 
+Please note that paths must be modified.
+
 ## Datasets
 
 Processed datasets for generation of Figures 1-4 are available at Zenodo: https://doi.org/10.5281/zenodo.7245450
